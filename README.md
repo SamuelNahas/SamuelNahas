@@ -1,8 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Samuel%20Nahas&fontAlign=50&fontAlignY=40&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%20%26%20Backend%20%7C%20Computer%20Science%20%40%20UFMS&descAlign=50&descAlignY=60" />
+</p>
+
 <div align="center">
-
-# Samuel Nahas
-
-### Software Developer · Computer Science @ UFMS
 
 Building **backend systems, full-stack applications, data pipelines and AI-powered products**.
 
@@ -16,9 +16,10 @@ Computer Science student at **Universidade Federal de Mato Grosso do Sul (UFMS)*
 
 ### 🌐 Connect with me
 
-<a href="https://www.linkedin.com/in/samuel-nahas-23b809281/" target="_blank">
+<a href="YOUR_LINKEDIN_URL" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-ff0043?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 <a href="https://github.com/SamuelNahas" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-ff0043?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -283,7 +284,14 @@ Next.js Application
 GitHub Pages
 ```
 
-The project also includes automated collection, scheduled updates, configurable competitive eras, GitHub Actions CI/CD, Supabase authentication and a personal Battle Journal.
+The project also includes:
+
+- automated tournament collection
+- scheduled data updates
+- configurable competitive eras
+- GitHub Actions CI/CD
+- Supabase authentication
+- personal Battle Journal
 
 **Stack:** `Next.js` · `React` · `TypeScript` · `Python` · `Supabase` · `GitHub Actions`
 
@@ -342,7 +350,14 @@ It is also connected to academic work involving **Computer Science Education and
 
 Collection-management application combining multiple Pokémon TCG data sources to create a more complete catalog of Brazilian, international and Japanese card releases.
 
-Features include collection tracking, card image resolution, variant filtering, completion statistics, backups and automatically generated visual checklists.
+Features include:
+
+- collection tracking
+- card image resolution
+- variant filtering
+- completion statistics
+- backups
+- automatically generated visual checklists
 
 **Stack:** `JavaScript` · `HTML` · `CSS` · `REST APIs` · `GitHub Actions`
 
@@ -453,7 +468,7 @@ Worked in multidisciplinary and international teams on software engineering and 
 
 ### 📫 Let's build something.
 
-<a href="https://www.linkedin.com/in/samuel-nahas-23b809281/">
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/Contact_me_on_LinkedIn-ff0043?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
