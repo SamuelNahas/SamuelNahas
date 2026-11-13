@@ -60,6 +60,29 @@
 
 <br>
 
+## 💼 Professional Experience
+
+### 🤖 ClickTI — AI Pre-Sales Automation (RAG)
+
+I work at **ClickTI** on an AI product that **automates the pre-sales process**, built around a **Retrieval-Augmented Generation (RAG) pipeline** that turns documents into grounded, LLM-generated answers for the pre-sales team.
+
+**Document ingestion → Embeddings → Vector Search → Context Retrieval → LLM → Structured output**
+
+My work involves:
+
+- building the RAG pipeline end to end, from document ingestion and processing to retrieval and generation
+- embeddings and semantic/vector search over the ingested documents
+- LLM integration and prompt design for reliable, grounded outputs
+- backend APIs with FastAPI and PostgreSQL persistence
+- containerized services, testing and deployment
+- running accelerated/local AI workloads on **NVIDIA DGX Spark**
+
+> Active commercial project — client information, datasets, business rules and model configuration are intentionally not disclosed.
+
+**Tech:** `Python` · `FastAPI` · `PostgreSQL` · `Embeddings` · `Vector Search` · `RAG` · `LLMs` · `Docker` · `NVIDIA DGX Spark`
+
+<br>
+
 ## 🚀 Featured Projects
 
 ### 🌹 Rote Rosen — AI Audience Analytics Platform
@@ -86,6 +109,44 @@ I worked primarily on the **backend and analytical architecture**, including Fas
 **Tech:** `Python` · `FastAPI` · `PostgreSQL` · `Pandas` · `LLMs` · `React` · `TypeScript` · `Docker`
 
 [View organization →](https://github.com/orgs/AIProjectRoteRosen/repositories)
+
+<br>
+
+### 🔢 SVHN Digit Classification — Deep Learning
+
+Neural network study on the **Street View House Numbers** dataset, progressing from a linear classifier to MLPs, CNNs and ensembles, with every decision made on validation data only.
+
+Highlights:
+
+- 30 controlled experiments (optimizers, regularization, augmentation, cutout, label smoothing, depth vs. width)
+- **119 training runs on two NVIDIA DGX Spark** machines, with a pre-registered experiment plan
+- test-time augmentation and a final **ensemble of 20 CNNs: 97.89% test accuracy**
+- reproducible pipeline with cached results/weights and CI that runs the notebook on every PR
+- LaTeX report with tables and figures generated from the results
+
+**Tech:** `Python` · `PyTorch` · `Jupyter` · `NVIDIA DGX Spark` · `LaTeX` · `GitHub Actions`
+
+[Repository →](https://github.com/SamuelNahas/svhn-classificacao)
+
+<br>
+
+### 🏨 HospedaBem — Hotel Management Desktop System
+
+Desktop system for hotel front desks covering **reservations, room availability, check-in, consumption and check-out with payment**, built for the Object-Oriented Analysis and Design course at UFMS.
+
+Highlights:
+
+- layered MVC architecture (`view → controller → service → DAO`) with GRASP patterns
+- Spring Boot as a DI and transaction container, without a web server
+- concurrency-safe rules enforced in PostgreSQL (row locks, partial unique indexes, `CHECK`)
+- atomic check-in/check-out transactions, verified with injected failures
+- **207 automated tests** (unit, integration with real PostgreSQL, JavaFX E2E)
+- **mutation testing (PIT) at 96%**
+- CI on every Pull Request: Checkstyle, build, tests on headless JavaFX and mutation
+
+**Tech:** `Java 17` · `JavaFX` · `Spring Boot` · `Spring JDBC` · `PostgreSQL` · `JUnit 5` · `PIT` · `GitHub Actions`
+
+[Repository →](https://github.com/SamuelNahas/hospedabem)
 
 <br>
 
@@ -163,44 +224,6 @@ Features include:
 
 <br>
 
-### 🏨 HospedaBem — Hotel Management Desktop System
-
-Desktop system for hotel front desks covering **reservations, room availability, check-in, consumption and check-out with payment**, built for the Object-Oriented Analysis and Design course at UFMS.
-
-Highlights:
-
-- layered MVC architecture (`view → controller → service → DAO`) with GRASP patterns
-- Spring Boot as a DI and transaction container, without a web server
-- concurrency-safe rules enforced in PostgreSQL (row locks, partial unique indexes, `CHECK`)
-- atomic check-in/check-out transactions, verified with injected failures
-- **207 automated tests** (unit, integration with real PostgreSQL, JavaFX E2E)
-- **mutation testing (PIT) at 96%**
-- CI on every Pull Request: Checkstyle, build, tests on headless JavaFX and mutation
-
-**Tech:** `Java 17` · `JavaFX` · `Spring Boot` · `Spring JDBC` · `PostgreSQL` · `JUnit 5` · `PIT` · `GitHub Actions`
-
-[Repository →](https://github.com/SamuelNahas/hospedabem)
-
-<br>
-
-### 🔢 SVHN Digit Classification — Deep Learning
-
-Neural network study on the **Street View House Numbers** dataset, progressing from a linear classifier to MLPs, CNNs and ensembles, with every decision made on validation data only.
-
-Highlights:
-
-- 30 controlled experiments (optimizers, regularization, augmentation, cutout, label smoothing, depth vs. width)
-- **119 training runs on two NVIDIA DGX Spark** machines, with a pre-registered experiment plan
-- test-time augmentation and a final **ensemble of 20 CNNs: 97.89% test accuracy**
-- reproducible pipeline with cached results/weights and CI that runs the notebook on every PR
-- LaTeX report with tables and figures generated from the results
-
-**Tech:** `Python` · `PyTorch` · `Jupyter` · `NVIDIA DGX Spark` · `LaTeX` · `GitHub Actions`
-
-[Repository →](https://github.com/SamuelNahas/svhn-classificacao)
-
-<br>
-
 ### 🖥️ HVComp
 
 Educational computing project based on the **Hypothetical Computer (HV)** model.
@@ -236,37 +259,6 @@ Includes:
 **Tech:** `JavaScript` · `HTML` · `CSS` · `REST APIs` · `GitHub Actions`
 
 [Repository →](https://github.com/SamuelNahas/my-master-set)
-
-<br>
-
-## 💼 Industry Experience
-
-### ClickTI — AI / RAG Development
-
-Working on a **private AI-focused project at ClickTI** involving a Retrieval-Augmented Generation architecture for document processing and semantic information retrieval.
-
-The system combines:
-
-**Document ingestion → Embeddings → Vector Search → Context Retrieval → LLM**
-
-My work involves:
-
-- RAG pipelines
-- backend API development
-- document processing
-- embeddings
-- semantic/vector search
-- LLM integration
-- PostgreSQL-based data persistence
-- containerized services
-- testing and deployment
-- integration with **NVIDIA AI infrastructure**
-
-The project also involves integration with **NVIDIA DGX Spark** for accelerated/local AI workloads.
-
-Because this is an active commercial project, internal architecture, client information, datasets, business rules and model configuration are intentionally not disclosed.
-
-**Tech / Areas:** `Python` · `FastAPI` · `PostgreSQL` · `Vector Search` · `RAG` · `LLMs` · `Docker` · `NVIDIA AI`
 
 <br>
 
