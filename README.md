@@ -264,6 +264,14 @@ Universidade Federal de Mato Grosso do Sul — UFMS 🇧🇷
 **International Exchange Studies**  
 Leuphana University Lüneburg 🇩🇪
 
+**Technical Diploma in Informatics (Integrated High School)**  
+Universidade Federal de Mato Grosso do Sul — UFMS 🇧🇷
+
+## 🌍 Languages
+
+**English — B2 (Upper-Intermediate)**  
+Cambridge English proficiency exam
+
 <br>
 
 <div align="center">
