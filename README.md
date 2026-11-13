@@ -150,32 +150,26 @@ Highlights:
 
 <br>
 
-### 😂 ComedyHub — Full-Stack Social Media Platform
+### 😂 ComedyHub — Meme & Comedy Social Platform
 
-One of my largest full-stack projects: a social platform focused on **publishing and interacting with comedy content**.
+**[ComedyHub](https://thecomedyhub.com.br/)** is a real, live social platform for **sharing and interacting with memes and comedy content**. I was part of the team that built it, working on the platform's backend and API.
 
-ComedyHub was designed as a complete multi-client ecosystem rather than a simple CRUD application.
+ComedyHub is a complete multi-client ecosystem rather than a simple CRUD application:
 
-The architecture included:
-
-- Java / Spring Boot backend
-- React web application
-- React Native mobile application
-- PostgreSQL persistence
-- Redis caching and asynchronous infrastructure
-- JWT authentication and authorization
-- REST API with versioning
-- WebSocket-based real-time events
-- posts, comments, likes and sharing
-- notifications
-- media uploads and processing
+- Java / Spring Boot backend with PostgreSQL and Redis for caching and queues
+- versioned REST API (v2) plus secure WebSocket connections for real-time events
+- React + Vite web application and React Native mobile app
+- JWT authentication, roles and rate limiting
+- posts, comments, likes, sharing, private collections and chat
+- real-time notifications (email and push)
+- media uploads with dedicated compression and moderation microservices
 - standardized validation and API error handling
-- Swagger / OpenAPI documentation
 
-**Tech:** `Java` · `Spring Boot` · `Spring Security` · `PostgreSQL` · `Redis` · `React` · `React Native` · `JWT` · `WebSockets`
+**Tech:** `Java` · `Spring Boot` · `Spring Security` · `PostgreSQL` · `Redis` · `React` · `React Native` · `JWT` · `WebSockets` · `Microservices`
 
-[API Repository →](https://github.com/SamuelNahas/comedyhubApi)  
-[Technical Documentation →](https://github.com/lucaserm/my-docs-comedyhub)
+[Live Platform →](https://thecomedyhub.com.br/) · [Developer Docs & Dev Diary →](https://comedyblog.omeninotech.com) · [GitHub Organization →](https://github.com/ComedyHub)
+
+> I'm no longer part of the organization; the code lives in its private repositories.
 
 <br>
 
