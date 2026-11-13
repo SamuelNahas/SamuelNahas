@@ -265,7 +265,7 @@ Universidade Federal de Mato Grosso do Sul — UFMS 🇧🇷
 Leuphana University Lüneburg 🇩🇪
 
 **Technical Diploma in Informatics (Integrated High School)**  
-Universidade Federal de Mato Grosso do Sul — UFMS 🇧🇷
+Instituto Federal de Mato Grosso do Sul — IFMS 🇧🇷
 
 ## 🌍 Languages
 
