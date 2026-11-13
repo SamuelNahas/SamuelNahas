@@ -163,6 +163,44 @@ Features include:
 
 <br>
 
+### 🏨 HospedaBem — Hotel Management Desktop System
+
+Desktop system for hotel front desks covering **reservations, room availability, check-in, consumption and check-out with payment**, built for the Object-Oriented Analysis and Design course at UFMS.
+
+Highlights:
+
+- layered MVC architecture (`view → controller → service → DAO`) with GRASP patterns
+- Spring Boot as a DI and transaction container, without a web server
+- concurrency-safe rules enforced in PostgreSQL (row locks, partial unique indexes, `CHECK`)
+- atomic check-in/check-out transactions, verified with injected failures
+- **207 automated tests** (unit, integration with real PostgreSQL, JavaFX E2E)
+- **mutation testing (PIT) at 96%**
+- CI on every Pull Request: Checkstyle, build, tests on headless JavaFX and mutation
+
+**Tech:** `Java 17` · `JavaFX` · `Spring Boot` · `Spring JDBC` · `PostgreSQL` · `JUnit 5` · `PIT` · `GitHub Actions`
+
+[Repository →](https://github.com/SamuelNahas/hospedabem)
+
+<br>
+
+### 🔢 SVHN Digit Classification — Deep Learning
+
+Neural network study on the **Street View House Numbers** dataset, progressing from a linear classifier to MLPs, CNNs and ensembles, with every decision made on validation data only.
+
+Highlights:
+
+- 30 controlled experiments (optimizers, regularization, augmentation, cutout, label smoothing, depth vs. width)
+- **119 training runs on two NVIDIA DGX Spark** machines, with a pre-registered experiment plan
+- test-time augmentation and a final **ensemble of 20 CNNs: 97.89% test accuracy**
+- reproducible pipeline with cached results/weights and CI that runs the notebook on every PR
+- LaTeX report with tables and figures generated from the results
+
+**Tech:** `Python` · `PyTorch` · `Jupyter` · `NVIDIA DGX Spark` · `LaTeX` · `GitHub Actions`
+
+[Repository →](https://github.com/SamuelNahas/svhn-classificacao)
+
+<br>
+
 ### 🖥️ HVComp
 
 Educational computing project based on the **Hypothetical Computer (HV)** model.
