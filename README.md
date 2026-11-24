@@ -228,6 +228,8 @@ Instituto Federal de Mato Grosso do Sul — IFMS 🇧🇷
 
 ## 🌍 Languages
 
+**Portuguese — Fluent**
+
 **English — B2 (Upper-Intermediate)**  
 Cambridge English proficiency exam
 
