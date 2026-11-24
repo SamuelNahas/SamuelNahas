@@ -173,28 +173,6 @@ ComedyHub is a complete multi-client ecosystem rather than a simple CRUD applica
 
 <br>
 
-### 📊 SH Meta Games
-
-Competitive **Pokémon TCG metagame analytics platform** built from public tournament data.
-
-The application processes tournament results to generate:
-
-- metagame representation
-- deck performance statistics
-- BO1 and BO3 matchup analysis
-- representative decklists
-- tournament history
-- personal Battle Journal
-- automated tournament collection
-- scheduled data updates
-- optional Supabase synchronization
-
-**Tech:** `Next.js` · `React` · `TypeScript` · `Python` · `Supabase` · `GitHub Actions`
-
-[Repository →](https://github.com/SamuelNahas/Limitless-stats) · [Live Application →](https://samuelnahas.github.io/Limitless-stats/)
-
-<br>
-
 ### 🏆 TCG Tournament Check
 
 Full-stack tournament operations platform developed for use by **Pokémon TCG judges and tournament organizers during real competitive events**.
@@ -234,25 +212,6 @@ The platform helps students understand fundamental concepts including:
 The project is also connected to academic research involving **Computer Science Education and Design Science Research**.
 
 [hvcomp.io →](https://hvcomp.io)
-
-<br>
-
-### 🃏 Pokémon TCG Master Set
-
-Collection management application combining several Pokémon TCG data sources to build a unified catalog of Brazilian, international and Japanese card releases.
-
-Includes:
-
-- collection tracking
-- variants and rarity filtering
-- card image resolution
-- completion statistics
-- JSON backups
-- automatically generated visual checklists
-
-**Tech:** `JavaScript` · `HTML` · `CSS` · `REST APIs` · `GitHub Actions`
-
-[Repository →](https://github.com/SamuelNahas/my-master-set)
 
 <br>
 
