@@ -231,6 +231,10 @@ Instituto Federal de Mato Grosso do Sul — IFMS 🇧🇷
 **English — B2 (Upper-Intermediate)**  
 Cambridge English proficiency exam
 
+**German — A2 (Elementary)**
+
+**Spanish — B1 (Intermediate)**
+
 <br>
 
 <div align="center">
