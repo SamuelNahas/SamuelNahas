@@ -192,7 +192,7 @@ Features include:
 
 **Tech:** `TypeScript` · `Node.js` · `SQLite` · `Docker` · `Nginx` · `GitHub Actions`
 
-> Private repository — developed for real tournament operations.
+[Repository →](https://github.com/SamuelNahas/tcg-deck-check)
 
 <br>
 
