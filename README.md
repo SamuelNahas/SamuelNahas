@@ -232,7 +232,7 @@ Instituto Federal de Mato Grosso do Sul — IFMS 🇧🇷
 
 **English — C2 (Proficient)**  
 [EF SET Certificate — C2, score 79/100 (2026)](https://cert.efset.org/pt/cj2JhA)  
-Cambridge English proficiency exam — B2 (Upper-Intermediate)
+Cambridge English proficiency exam — B2 (Upper-Intermediate), 2021
 
 **German — A2 (Elementary)**
 
