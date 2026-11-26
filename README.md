@@ -15,6 +15,10 @@
 
 <div align="center">
 
+### 🎯 Focus
+
+AI engineering: LLM systems that are measured, not just demoed (correctness, latency and cost), built on solid backend practices.
+
 ### 🌐 Connect with me
 
 <a href="https://www.linkedin.com/in/samuel-nahas-23b809281">
@@ -64,11 +68,11 @@
 
 ### 🤖 ClickTI — AI Pre-Sales Automation (RAG)
 
-I worked at **ClickTI** on an AI product that **automates the pre-sales process**, built around a **Retrieval-Augmented Generation (RAG) pipeline** that turns documents into grounded, LLM-generated answers for the pre-sales team.
+I work at **ClickTI** on an AI product that **automates the pre-sales process**, built around a **Retrieval-Augmented Generation (RAG) pipeline** that turns documents into grounded, LLM-generated answers for the pre-sales team.
 
 **Document ingestion → Embeddings → Vector Search → Context Retrieval → LLM → Structured output**
 
-My work involved:
+My work involves:
 
 - building the RAG pipeline end to end, from document ingestion and processing to retrieval and generation
 - embeddings and semantic/vector search over the ingested documents
@@ -76,6 +80,7 @@ My work involved:
 - backend APIs with FastAPI and PostgreSQL persistence
 - containerized services, testing and deployment
 - running accelerated/local AI workloads on **NVIDIA DGX Spark**
+- pre-registered experiments comparing models, concurrency levels and extraction strategies
 
 > Active commercial project — client information, datasets, business rules and model configuration are intentionally not disclosed.
 
@@ -119,8 +124,8 @@ Neural network study on the **Street View House Numbers** dataset, progressing f
 Highlights:
 
 - 30 controlled experiments (optimizers, regularization, augmentation, cutout, label smoothing, depth vs. width)
-- **119 training runs on two NVIDIA DGX Spark** machines, with a pre-registered experiment plan
-- test-time augmentation and a final **ensemble of 20 CNNs: 97.89% test accuracy**
+- **138 training runs on two NVIDIA DGX Spark** machines, with a pre-registered experiment plan
+- test-time augmentation and a final **ensemble of 3 WRN-28-2 with RandAugment and TTA: 98.20% test accuracy**
 - reproducible pipeline with cached results/weights and CI that runs the notebook on every PR
 - LaTeX report with tables and figures generated from the results
 
