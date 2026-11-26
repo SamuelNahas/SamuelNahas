@@ -64,11 +64,11 @@
 
 ### 🤖 ClickTI — AI Pre-Sales Automation (RAG)
 
-I work at **ClickTI** on an AI product that **automates the pre-sales process**, built around a **Retrieval-Augmented Generation (RAG) pipeline** that turns documents into grounded, LLM-generated answers for the pre-sales team.
+I worked at **ClickTI** on an AI product that **automates the pre-sales process**, built around a **Retrieval-Augmented Generation (RAG) pipeline** that turns documents into grounded, LLM-generated answers for the pre-sales team.
 
 **Document ingestion → Embeddings → Vector Search → Context Retrieval → LLM → Structured output**
 
-My work involves:
+My work involved:
 
 - building the RAG pipeline end to end, from document ingestion and processing to retrieval and generation
 - embeddings and semantic/vector search over the ingested documents
